@@ -1,1 +1,2 @@
-# shaurya-speed-math
+# hello world
+example repository
